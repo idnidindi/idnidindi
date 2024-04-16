@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/Github-181717?logo=Github&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/Gitlab-FC6D26?logo=Gitlab&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/Scss-CC6699?logo=sass&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/Laragon-0E83CD?logo=Laragon&logoColor=white&style=flat" />
 
 ## Operating Systems I am familiar with
 <img src="https://img.shields.io/badge/Windows 10-0078D6?logo=windows10&logoColor=white&style=flat" />
