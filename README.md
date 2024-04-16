@@ -12,6 +12,8 @@
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/Scss-CC6699?logo=sass&logoColor=white&style=flat" />
 
+<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=Laravel&logoColor=white&style=flat" />
+
 ## Tools I use
 <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat" /> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" />
