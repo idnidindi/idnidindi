@@ -11,6 +11,7 @@
 <img src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/Scss-CC6699?logo=sass&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/Cypress-69D3A7?logo=Cypress&logoColor=white&style=flat" />
 
 <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=Laravel&logoColor=white&style=flat" />
 
